@@ -1,0 +1,343 @@
+[2026-04-23 13:28:03] [INFO] [__main__] ==================================================
+[2026-04-23 13:28:03] [INFO] [__main__] RAM Optimizer Pro — Starting Up
+[2026-04-23 13:28:03] [INFO] [__main__] ==================================================
+[2026-04-23 13:28:04] [INFO] [__main__] OS        : Linux #14-Ubuntu SMP PREEMPT_DYNAMIC Mon Apr 13 11:09:53 UTC 2026
+[2026-04-23 13:28:04] [INFO] [__main__] Processor : 
+[2026-04-23 13:28:04] [INFO] [__main__] Arch      : 64bit
+[2026-04-23 13:28:04] [INFO] [core.monitor] Database initialized.
+[2026-04-23 13:28:04] [INFO] [core.monitor] RAM monitoring started.
+[2026-04-23 13:28:04] [INFO] [__main__] Monitoring thread started. Press Ctrl+C to stop.
+[2026-04-23 13:28:04] [INFO] [core.monitor] Database initialized.
+[2026-04-23 13:28:29] [INFO] [core.monitor] RAM: 5086.75MB / 15181.18MB (33.5%) | Swap: 0.0%
+[2026-04-23 13:28:29] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:28:29] [INFO] [__main__]   1. firefox — 628.83 MB
+[2026-04-23 13:28:29] [INFO] [__main__]   2. Isolated Web Co — 628.05 MB
+[2026-04-23 13:28:29] [INFO] [__main__]   3. code — 492.52 MB
+[2026-04-23 13:28:51] [INFO] [core.monitor] RAM: 4725.27MB / 15181.18MB (31.1%) | Swap: 0.0%
+[2026-04-23 13:28:51] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:28:51] [INFO] [__main__]   1. Isolated Web Co — 672.66 MB
+[2026-04-23 13:28:51] [INFO] [__main__]   2. firefox — 629.01 MB
+[2026-04-23 13:28:51] [INFO] [__main__]   3. code — 492.62 MB
+[2026-04-23 13:29:04] [INFO] [__main__] RAM Optimizer Pro stopped by user.
+[2026-04-23 13:32:55] [INFO] [__main__] ==================================================
+[2026-04-23 13:32:55] [INFO] [__main__] RAM Optimizer Pro — Starting Up
+[2026-04-23 13:32:55] [INFO] [__main__] ==================================================
+[2026-04-23 13:32:55] [INFO] [__main__] OS        : Linux #14-Ubuntu SMP PREEMPT_DYNAMIC Mon Apr 13 11:09:53 UTC 2026
+[2026-04-23 13:32:55] [INFO] [__main__] Processor : 
+[2026-04-23 13:32:55] [INFO] [__main__] Arch      : 64bit
+[2026-04-23 13:32:55] [INFO] [core.monitor] Database initialized.
+[2026-04-23 13:32:55] [INFO] [core.monitor] RAM monitoring started.
+[2026-04-23 13:32:55] [INFO] [__main__] Monitoring thread started. Press Ctrl+C to stop.
+[2026-04-23 13:32:55] [INFO] [core.monitor] Database initialized.
+[2026-04-23 13:33:22] [INFO] [core.monitor] RAM: 4774.67MB / 15181.18MB (31.5%) | Swap: 0.0%
+[2026-04-23 13:33:22] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:33:22] [INFO] [__main__]   1. Isolated Web Co — 672.38 MB
+[2026-04-23 13:33:22] [INFO] [__main__]   2. firefox — 585.41 MB
+[2026-04-23 13:33:22] [INFO] [__main__]   3. code — 510.26 MB
+[2026-04-23 13:33:50] [INFO] [core.monitor] RAM: 4722.05MB / 15181.18MB (31.1%) | Swap: 0.0%
+[2026-04-23 13:33:50] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:33:50] [INFO] [__main__]   1. Isolated Web Co — 639.52 MB
+[2026-04-23 13:33:50] [INFO] [__main__]   2. firefox — 585.42 MB
+[2026-04-23 13:33:50] [INFO] [__main__]   3. code — 510.27 MB
+[2026-04-23 13:34:17] [INFO] [core.monitor] RAM: 4660.14MB / 15181.18MB (30.7%) | Swap: 0.0%
+[2026-04-23 13:34:17] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:34:17] [INFO] [__main__]   1. Isolated Web Co — 639.78 MB
+[2026-04-23 13:34:17] [INFO] [__main__]   2. firefox — 585.45 MB
+[2026-04-23 13:34:17] [INFO] [__main__]   3. code — 510.41 MB
+[2026-04-23 13:34:44] [INFO] [core.monitor] RAM: 4686.7MB / 15181.18MB (30.9%) | Swap: 0.0%
+[2026-04-23 13:34:44] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:34:44] [INFO] [__main__]   1. Isolated Web Co — 627.36 MB
+[2026-04-23 13:34:44] [INFO] [__main__]   2. firefox — 585.46 MB
+[2026-04-23 13:34:44] [INFO] [__main__]   3. code — 510.41 MB
+[2026-04-23 13:35:12] [INFO] [core.monitor] RAM: 4649.06MB / 15181.18MB (30.6%) | Swap: 0.0%
+[2026-04-23 13:35:12] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:35:12] [INFO] [__main__]   1. Isolated Web Co — 627.19 MB
+[2026-04-23 13:35:12] [INFO] [__main__]   2. firefox — 586.54 MB
+[2026-04-23 13:35:12] [INFO] [__main__]   3. code — 510.41 MB
+[2026-04-23 13:35:39] [INFO] [core.monitor] RAM: 4653.84MB / 15181.18MB (30.7%) | Swap: 0.0%
+[2026-04-23 13:35:39] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:35:39] [INFO] [__main__]   1. Isolated Web Co — 627.11 MB
+[2026-04-23 13:35:39] [INFO] [__main__]   2. firefox — 586.3 MB
+[2026-04-23 13:35:39] [INFO] [__main__]   3. code — 510.55 MB
+[2026-04-23 13:36:06] [INFO] [core.monitor] RAM: 4689.29MB / 15181.18MB (30.9%) | Swap: 0.0%
+[2026-04-23 13:36:06] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:36:06] [INFO] [__main__]   1. Isolated Web Co — 627.12 MB
+[2026-04-23 13:36:06] [INFO] [__main__]   2. firefox — 586.55 MB
+[2026-04-23 13:36:06] [INFO] [__main__]   3. code — 510.55 MB
+[2026-04-23 13:36:32] [INFO] [core.monitor] RAM: 4633.5MB / 15181.18MB (30.5%) | Swap: 0.0%
+[2026-04-23 13:36:32] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:36:32] [INFO] [__main__]   1. Isolated Web Co — 627.11 MB
+[2026-04-23 13:36:32] [INFO] [__main__]   2. firefox — 586.55 MB
+[2026-04-23 13:36:32] [INFO] [__main__]   3. code — 510.36 MB
+[2026-04-23 13:36:59] [INFO] [core.monitor] RAM: 4640.5MB / 15181.18MB (30.6%) | Swap: 0.0%
+[2026-04-23 13:36:59] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:36:59] [INFO] [__main__]   1. Isolated Web Co — 627.2 MB
+[2026-04-23 13:36:59] [INFO] [__main__]   2. firefox — 586.55 MB
+[2026-04-23 13:36:59] [INFO] [__main__]   3. code — 510.45 MB
+[2026-04-23 13:37:27] [INFO] [core.monitor] RAM: 4633.61MB / 15181.18MB (30.5%) | Swap: 0.0%
+[2026-04-23 13:37:27] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:37:27] [INFO] [__main__]   1. Isolated Web Co — 627.23 MB
+[2026-04-23 13:37:27] [INFO] [__main__]   2. firefox — 586.55 MB
+[2026-04-23 13:37:27] [INFO] [__main__]   3. code — 510.57 MB
+[2026-04-23 13:37:55] [INFO] [core.monitor] RAM: 4622.0MB / 15181.18MB (30.4%) | Swap: 0.0%
+[2026-04-23 13:37:55] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:37:55] [INFO] [__main__]   1. Isolated Web Co — 627.25 MB
+[2026-04-23 13:37:55] [INFO] [__main__]   2. firefox — 586.55 MB
+[2026-04-23 13:37:55] [INFO] [__main__]   3. code — 510.45 MB
+[2026-04-23 13:38:22] [INFO] [core.monitor] RAM: 4635.39MB / 15181.18MB (30.5%) | Swap: 0.0%
+[2026-04-23 13:38:22] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:38:22] [INFO] [__main__]   1. Isolated Web Co — 627.36 MB
+[2026-04-23 13:38:22] [INFO] [__main__]   2. firefox — 586.55 MB
+[2026-04-23 13:38:22] [INFO] [__main__]   3. code — 510.45 MB
+[2026-04-23 13:38:45] [INFO] [core.monitor] RAM: 4634.21MB / 15181.18MB (30.5%) | Swap: 0.0%
+[2026-04-23 13:38:45] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:38:45] [INFO] [__main__]   1. Isolated Web Co — 633.51 MB
+[2026-04-23 13:38:45] [INFO] [__main__]   2. firefox — 592.09 MB
+[2026-04-23 13:38:45] [INFO] [__main__]   3. code — 510.46 MB
+[2026-04-23 13:39:11] [INFO] [core.monitor] RAM: 4649.27MB / 15181.18MB (30.6%) | Swap: 0.0%
+[2026-04-23 13:39:11] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:39:11] [INFO] [__main__]   1. Isolated Web Co — 629.07 MB
+[2026-04-23 13:39:11] [INFO] [__main__]   2. firefox — 590.77 MB
+[2026-04-23 13:39:11] [INFO] [__main__]   3. code — 510.51 MB
+[2026-04-23 13:39:41] [INFO] [core.monitor] RAM: 4682.93MB / 15181.18MB (30.8%) | Swap: 0.0%
+[2026-04-23 13:39:41] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:39:41] [INFO] [__main__]   1. Isolated Web Co — 678.22 MB
+[2026-04-23 13:39:41] [INFO] [__main__]   2. firefox — 590.64 MB
+[2026-04-23 13:39:41] [INFO] [__main__]   3. code — 510.59 MB
+[2026-04-23 13:40:09] [INFO] [core.monitor] RAM: 4891.91MB / 15181.18MB (32.2%) | Swap: 0.0%
+[2026-04-23 13:40:09] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:40:09] [INFO] [__main__]   1. Isolated Web Co — 624.75 MB
+[2026-04-23 13:40:09] [INFO] [__main__]   2. firefox — 591.66 MB
+[2026-04-23 13:40:09] [INFO] [__main__]   3. code — 510.6 MB
+[2026-04-23 13:40:32] [INFO] [core.monitor] RAM: 4656.33MB / 15181.18MB (30.7%) | Swap: 0.0%
+[2026-04-23 13:40:32] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:40:32] [INFO] [__main__]   1. Isolated Web Co — 625.36 MB
+[2026-04-23 13:40:32] [INFO] [__main__]   2. firefox — 591.62 MB
+[2026-04-23 13:40:32] [INFO] [__main__]   3. code — 510.66 MB
+[2026-04-23 13:40:51] [INFO] [__main__] RAM Optimizer Pro stopped by user.
+[2026-04-23 13:42:09] [INFO] [core.analyzer] Running system memory analysis...
+[2026-04-23 13:42:09] [INFO] [core.analyzer] Old records cleaned up (older than 7 days).
+[2026-04-23 13:42:09] [INFO] [core.analyzer] Analysis complete. Peak: 33.5% | Avg: 30.96% | Leaks detected: 2
+[2026-04-23 13:42:09] [INFO] [ai.recommender] ==================================================
+[2026-04-23 13:42:09] [INFO] [ai.recommender] SMART RECOMMENDATIONS
+[2026-04-23 13:42:09] [INFO] [ai.recommender] ==================================================
+[2026-04-23 13:42:09] [INFO] [ai.recommender] [INFO]     Average RAM usage is healthy at 30.96% over the last 24 hours.
+[2026-04-23 13:42:09] [INFO] [ai.recommender] [INFO]     'firefox' is your top memory consumer with an average of 592.03 MB (peak: 629.01 MB).
+[2026-04-23 13:42:09] [WARNING] [ai.recommender] [WARNING]  'firefox' is consuming over 500 MB on average. Consider restarting or replacing it.
+[2026-04-23 13:42:09] [WARNING] [ai.recommender] [CRITICAL] Possible memory leak in 'Isolated Web Co': grew by 405.58 MB in the last hour (272.64 MB → 678.22 MB).
+[2026-04-23 13:42:09] [WARNING] [ai.recommender] [CRITICAL] Possible memory leak in 'code': grew by 327.84 MB in the last hour (182.82 MB → 510.66 MB).
+[2026-04-23 13:42:09] [INFO] [ai.recommender] ==================================================
+[2026-04-23 13:46:29] [INFO] [__main__] ==================================================
+[2026-04-23 13:46:29] [INFO] [__main__] RAM Optimizer Pro — Starting Up
+[2026-04-23 13:46:29] [INFO] [__main__] ==================================================
+[2026-04-23 13:46:29] [INFO] [__main__] OS        : Linux #14-Ubuntu SMP PREEMPT_DYNAMIC Mon Apr 13 11:09:53 UTC 2026
+[2026-04-23 13:46:29] [INFO] [__main__] Processor : 
+[2026-04-23 13:46:29] [INFO] [__main__] Arch      : 64bit
+[2026-04-23 13:46:29] [INFO] [core.monitor] Database initialized.
+[2026-04-23 13:46:29] [INFO] [core.monitor] RAM monitoring started.
+[2026-04-23 13:46:29] [INFO] [__main__] Monitoring thread started. Press Ctrl+C to stop.
+[2026-04-23 13:46:29] [INFO] [core.monitor] Database initialized.
+[2026-04-23 13:46:29] [INFO] [core.analyzer] Running system memory analysis...
+[2026-04-23 13:46:29] [INFO] [core.analyzer] Old records cleaned up (older than 7 days).
+[2026-04-23 13:46:29] [INFO] [core.analyzer] Analysis complete. Peak: 33.5% | Avg: 30.96% | Leaks detected: 2
+[2026-04-23 13:46:29] [INFO] [ai.recommender] ==================================================
+[2026-04-23 13:46:29] [INFO] [ai.recommender] SMART RECOMMENDATIONS
+[2026-04-23 13:46:29] [INFO] [ai.recommender] ==================================================
+[2026-04-23 13:46:29] [INFO] [ai.recommender] [INFO]     Average RAM usage is healthy at 30.96% over the last 24 hours.
+[2026-04-23 13:46:29] [INFO] [ai.recommender] [INFO]     'firefox' is your top memory consumer with an average of 592.03 MB (peak: 629.01 MB).
+[2026-04-23 13:46:29] [WARNING] [ai.recommender] [WARNING]  'firefox' is consuming over 500 MB on average. Consider restarting or replacing it.
+[2026-04-23 13:46:29] [WARNING] [ai.recommender] [CRITICAL] Possible memory leak in 'Isolated Web Co': grew by 405.58 MB in the last hour (272.64 MB → 678.22 MB).
+[2026-04-23 13:46:29] [WARNING] [ai.recommender] [CRITICAL] Possible memory leak in 'code': grew by 327.84 MB in the last hour (182.82 MB → 510.66 MB).
+[2026-04-23 13:46:29] [INFO] [ai.recommender] ==================================================
+[2026-04-23 13:46:29] [INFO] [core.optimizer] RAM at 31.8% — optimization not needed yet.
+[2026-04-23 13:46:29] [INFO] [core.swap_manager] Swap health check — 0.0% used | Status: healthy
+[2026-04-23 13:46:57] [INFO] [core.monitor] RAM: 4831.83MB / 15181.18MB (31.8%) | Swap: 0.0%
+[2026-04-23 13:46:57] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:46:57] [INFO] [__main__]   1. Isolated Web Co — 728.88 MB
+[2026-04-23 13:46:57] [INFO] [__main__]   2. firefox — 593.33 MB
+[2026-04-23 13:46:57] [INFO] [__main__]   3. code — 545.07 MB
+[2026-04-23 13:47:24] [INFO] [core.monitor] RAM: 4913.64MB / 15181.18MB (32.4%) | Swap: 0.0%
+[2026-04-23 13:47:24] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:47:24] [INFO] [__main__]   1. Isolated Web Co — 684.39 MB
+[2026-04-23 13:47:24] [INFO] [__main__]   2. firefox — 593.86 MB
+[2026-04-23 13:47:24] [INFO] [__main__]   3. code — 545.08 MB
+[2026-04-23 13:47:50] [INFO] [core.monitor] RAM: 4756.95MB / 15181.18MB (31.3%) | Swap: 0.0%
+[2026-04-23 13:47:50] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:47:50] [INFO] [__main__]   1. Isolated Web Co — 765.33 MB
+[2026-04-23 13:47:50] [INFO] [__main__]   2. firefox — 593.87 MB
+[2026-04-23 13:47:50] [INFO] [__main__]   3. code — 532.0 MB
+[2026-04-23 13:48:17] [INFO] [core.monitor] RAM: 4909.21MB / 15181.18MB (32.3%) | Swap: 0.0%
+[2026-04-23 13:48:17] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:48:17] [INFO] [__main__]   1. Isolated Web Co — 827.02 MB
+[2026-04-23 13:48:17] [INFO] [__main__]   2. firefox — 593.87 MB
+[2026-04-23 13:48:17] [INFO] [__main__]   3. code — 508.84 MB
+[2026-04-23 13:48:45] [INFO] [core.monitor] RAM: 4864.38MB / 15181.18MB (32.0%) | Swap: 0.0%
+[2026-04-23 13:48:45] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:48:45] [INFO] [__main__]   1. Isolated Web Co — 809.86 MB
+[2026-04-23 13:48:45] [INFO] [__main__]   2. firefox — 593.87 MB
+[2026-04-23 13:48:45] [INFO] [__main__]   3. code — 508.84 MB
+[2026-04-23 13:49:11] [INFO] [core.monitor] RAM: 4858.37MB / 15181.18MB (32.0%) | Swap: 0.0%
+[2026-04-23 13:49:11] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:49:11] [INFO] [__main__]   1. Isolated Web Co — 809.51 MB
+[2026-04-23 13:49:11] [INFO] [__main__]   2. firefox — 593.94 MB
+[2026-04-23 13:49:11] [INFO] [__main__]   3. code — 509.18 MB
+[2026-04-23 13:49:35] [INFO] [core.monitor] RAM: 4877.83MB / 15181.18MB (32.1%) | Swap: 0.0%
+[2026-04-23 13:49:35] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:49:35] [INFO] [__main__]   1. Isolated Web Co — 826.24 MB
+[2026-04-23 13:49:35] [INFO] [__main__]   2. code — 625.73 MB
+[2026-04-23 13:49:35] [INFO] [__main__]   3. firefox — 595.35 MB
+[2026-04-23 13:50:01] [INFO] [core.monitor] RAM: 5011.98MB / 15181.18MB (33.0%) | Swap: 0.0%
+[2026-04-23 13:50:01] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:50:01] [INFO] [__main__]   1. Isolated Web Co — 827.62 MB
+[2026-04-23 13:50:01] [INFO] [__main__]   2. code — 623.77 MB
+[2026-04-23 13:50:01] [INFO] [__main__]   3. firefox — 594.5 MB
+[2026-04-23 13:50:12] [INFO] [__main__] RAM Optimizer Pro stopped by user.
+[2026-04-23 13:50:18] [INFO] [__main__] ==================================================
+[2026-04-23 13:50:18] [INFO] [__main__] RAM Optimizer Pro — Starting Up
+[2026-04-23 13:50:18] [INFO] [__main__] ==================================================
+[2026-04-23 13:50:18] [INFO] [__main__] OS        : Linux #14-Ubuntu SMP PREEMPT_DYNAMIC Mon Apr 13 11:09:53 UTC 2026
+[2026-04-23 13:50:18] [INFO] [__main__] Processor : 
+[2026-04-23 13:50:18] [INFO] [__main__] Arch      : 64bit
+[2026-04-23 13:50:18] [INFO] [core.monitor] Database initialized.
+[2026-04-23 13:50:18] [INFO] [core.monitor] RAM monitoring started.
+[2026-04-23 13:50:18] [INFO] [__main__] Monitoring thread started. Press Ctrl+C to stop.
+[2026-04-23 13:50:18] [INFO] [core.monitor] Database initialized.
+[2026-04-23 13:50:18] [INFO] [core.analyzer] Running system memory analysis...
+[2026-04-23 13:50:18] [INFO] [core.analyzer] Old records cleaned up (older than 7 days).
+[2026-04-23 13:50:18] [INFO] [core.analyzer] Analysis complete. Peak: 33.5% | Avg: 31.3% | Leaks detected: 2
+[2026-04-23 13:50:18] [INFO] [ai.recommender] ==================================================
+[2026-04-23 13:50:18] [INFO] [ai.recommender] SMART RECOMMENDATIONS
+[2026-04-23 13:50:18] [INFO] [ai.recommender] ==================================================
+[2026-04-23 13:50:18] [INFO] [ai.recommender] [INFO]     Average RAM usage is healthy at 31.3% over the last 24 hours.
+[2026-04-23 13:50:18] [INFO] [ai.recommender] [INFO]     'firefox' is your top memory consumer with an average of 592.63 MB (peak: 629.01 MB).
+[2026-04-23 13:50:18] [WARNING] [ai.recommender] [WARNING]  'firefox' is consuming over 500 MB on average. Consider restarting or replacing it.
+[2026-04-23 13:50:18] [WARNING] [ai.recommender] [CRITICAL] Possible memory leak in 'Isolated Web Co': grew by 554.98 MB in the last hour (272.64 MB → 827.62 MB).
+[2026-04-23 13:50:18] [WARNING] [ai.recommender] [CRITICAL] Possible memory leak in 'code': grew by 442.91 MB in the last hour (182.82 MB → 625.73 MB).
+[2026-04-23 13:50:18] [INFO] [ai.recommender] ==================================================
+[2026-04-23 13:50:18] [INFO] [core.optimizer] RAM at 33.6% — optimization not needed yet.
+[2026-04-23 13:50:18] [INFO] [core.swap_manager] Swap health check — 0.0% used | Status: healthy
+[2026-04-23 13:50:44] [INFO] [core.monitor] RAM: 5105.09MB / 15181.18MB (33.6%) | Swap: 0.0%
+[2026-04-23 13:50:44] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:50:44] [INFO] [__main__]   1. Isolated Web Co — 912.31 MB
+[2026-04-23 13:50:44] [INFO] [__main__]   2. code — 629.09 MB
+[2026-04-23 13:50:44] [INFO] [__main__]   3. firefox — 596.26 MB
+[2026-04-23 13:51:03] [INFO] [__main__] RAM Optimizer Pro stopped by user.
+[2026-04-23 13:51:05] [INFO] [__main__] ==================================================
+[2026-04-23 13:51:05] [INFO] [__main__] RAM Optimizer Pro — Starting Up
+[2026-04-23 13:51:05] [INFO] [__main__] ==================================================
+[2026-04-23 13:51:05] [INFO] [__main__] OS        : Linux #14-Ubuntu SMP PREEMPT_DYNAMIC Mon Apr 13 11:09:53 UTC 2026
+[2026-04-23 13:51:05] [INFO] [__main__] Processor : 
+[2026-04-23 13:51:05] [INFO] [__main__] Arch      : 64bit
+[2026-04-23 13:51:05] [INFO] [core.monitor] Database initialized.
+[2026-04-23 13:51:05] [INFO] [core.monitor] RAM monitoring started.
+[2026-04-23 13:51:05] [INFO] [__main__] Monitoring thread started. Press Ctrl+C to stop.
+[2026-04-23 13:51:05] [INFO] [core.monitor] Database initialized.
+[2026-04-23 13:51:05] [INFO] [core.analyzer] Running system memory analysis...
+[2026-04-23 13:51:05] [INFO] [core.analyzer] Old records cleaned up (older than 7 days).
+[2026-04-23 13:51:05] [INFO] [core.analyzer] Analysis complete. Peak: 33.6% | Avg: 31.39% | Leaks detected: 2
+[2026-04-23 13:51:05] [INFO] [ai.recommender] ==================================================
+[2026-04-23 13:51:05] [INFO] [ai.recommender] SMART RECOMMENDATIONS
+[2026-04-23 13:51:05] [INFO] [ai.recommender] ==================================================
+[2026-04-23 13:51:05] [INFO] [ai.recommender] [INFO]     Average RAM usage is healthy at 31.39% over the last 24 hours.
+[2026-04-23 13:51:05] [INFO] [ai.recommender] [INFO]     'firefox' is your top memory consumer with an average of 592.76 MB (peak: 629.01 MB).
+[2026-04-23 13:51:05] [WARNING] [ai.recommender] [WARNING]  'firefox' is consuming over 500 MB on average. Consider restarting or replacing it.
+[2026-04-23 13:51:05] [WARNING] [ai.recommender] [CRITICAL] Possible memory leak in 'Isolated Web Co': grew by 639.67 MB in the last hour (272.64 MB → 912.31 MB).
+[2026-04-23 13:51:05] [WARNING] [ai.recommender] [CRITICAL] Possible memory leak in 'code': grew by 446.27 MB in the last hour (182.82 MB → 629.09 MB).
+[2026-04-23 13:51:05] [INFO] [ai.recommender] ==================================================
+[2026-04-23 13:51:05] [INFO] [core.optimizer] RAM at 32.8% — optimization not needed yet.
+[2026-04-23 13:51:05] [INFO] [core.swap_manager] Swap health check — 0.0% used | Status: healthy
+[2026-04-23 13:51:05] [INFO] [core.monitor] RAM: 4986.31MB / 15181.18MB (32.8%) | Swap: 0.0%
+[2026-04-23 13:51:05] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:51:05] [INFO] [__main__]   1. Isolated Web Co — 720.35 MB
+[2026-04-23 13:51:05] [INFO] [__main__]   2. code — 631.05 MB
+[2026-04-23 13:51:05] [INFO] [__main__]   3. firefox — 596.26 MB
+[2026-04-23 13:51:06] [INFO] [ai.predictor] Running prediction cycle...
+[2026-04-23 13:51:06] [INFO] [ai.predictor] Loading training data...
+[2026-04-23 13:51:06] [INFO] [ai.predictor] Model trained (RandomForest) — MAE: 0.48% | Samples: 29
+[2026-04-23 13:51:06] [INFO] [ai.predictor] Prediction (15 min ahead): 31.84% RAM usage | Risk: HEALTHY
+[2026-04-23 13:51:06] [INFO] [ai.predictor] Prediction (30 min ahead): 31.84% RAM usage | Risk: HEALTHY
+[2026-04-23 13:51:06] [INFO] [ai.predictor] Prediction (60 min ahead): 32.68% RAM usage | Risk: HEALTHY
+[2026-04-23 13:51:06] [INFO] [__main__] [PREDICTION] In 15 min → 31.84% RAM | Risk: HEALTHY
+[2026-04-23 13:51:06] [INFO] [__main__] [PREDICTION] In 30 min → 31.84% RAM | Risk: HEALTHY
+[2026-04-23 13:51:06] [INFO] [__main__] [PREDICTION] In 60 min → 32.68% RAM | Risk: HEALTHY
+[2026-04-23 13:51:30] [INFO] [core.monitor] RAM: 5081.54MB / 15181.18MB (33.5%) | Swap: 0.0%
+[2026-04-23 13:51:30] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:51:30] [INFO] [__main__]   1. Isolated Web Co — 798.89 MB
+[2026-04-23 13:51:30] [INFO] [__main__]   2. code — 631.16 MB
+[2026-04-23 13:51:30] [INFO] [__main__]   3. firefox — 597.17 MB
+[2026-04-23 13:51:57] [INFO] [core.monitor] RAM: 5102.96MB / 15181.18MB (33.6%) | Swap: 0.0%
+[2026-04-23 13:51:57] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:51:57] [INFO] [__main__]   1. Isolated Web Co — 1180.11 MB
+[2026-04-23 13:51:57] [INFO] [__main__]   2. firefox — 597.08 MB
+[2026-04-23 13:51:57] [INFO] [__main__]   3. code — 555.41 MB
+[2026-04-23 13:52:21] [INFO] [core.monitor] RAM: 5400.48MB / 15181.18MB (35.6%) | Swap: 0.0%
+[2026-04-23 13:52:21] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:52:21] [INFO] [__main__]   1. Isolated Web Co — 1182.86 MB
+[2026-04-23 13:52:21] [INFO] [__main__]   2. firefox — 597.08 MB
+[2026-04-23 13:52:21] [INFO] [__main__]   3. code — 591.72 MB
+[2026-04-23 13:52:44] [INFO] [core.monitor] RAM: 5521.86MB / 15181.18MB (36.4%) | Swap: 0.0%
+[2026-04-23 13:52:44] [INFO] [__main__] Top memory consumers:
+[2026-04-23 13:52:44] [INFO] [__main__]   1. Isolated Web Co — 1212.55 MB
+[2026-04-23 13:52:44] [INFO] [__main__]   2. firefox — 597.08 MB
+[2026-04-23 13:52:44] [INFO] [__main__]   3. code — 595.31 MB
+[2026-04-23 13:52:48] [INFO] [__main__] RAM Optimizer Pro stopped by user.
+[2026-04-23 13:55:14] [INFO] [__main__] ==================================================
+[2026-04-23 13:55:14] [INFO] [__main__] RAM Optimizer Pro — Starting Up
+[2026-04-23 13:55:14] [INFO] [__main__] ==================================================
+[2026-04-23 13:55:14] [INFO] [__main__] OS        : Linux #14-Ubuntu SMP PREEMPT_DYNAMIC Mon Apr 13 11:09:53 UTC 2026
+[2026-04-23 13:55:14] [INFO] [__main__] Processor : 
+[2026-04-23 13:55:14] [INFO] [__main__] Arch      : 64bit
+[2026-04-23 13:55:14] [INFO] [core.monitor] Database initialized.
+[2026-04-23 13:55:15] [INFO] [core.monitor] Database initialized.
+[2026-04-23 13:55:16] [INFO] [ai.predictor] Running prediction cycle...
+[2026-04-23 13:55:16] [INFO] [ai.predictor] Loading training data...
+[2026-04-23 13:55:16] [INFO] [ai.predictor] Model trained (RandomForest) — MAE: 0.76% | Samples: 33
+[2026-04-23 13:55:16] [INFO] [ai.predictor] Prediction (15 min ahead): 32.18% RAM usage | Risk: HEALTHY
+[2026-04-23 13:55:16] [INFO] [ai.predictor] Prediction (30 min ahead): 32.18% RAM usage | Risk: HEALTHY
+[2026-04-23 13:55:16] [INFO] [ai.predictor] Prediction (60 min ahead): 34.85% RAM usage | Risk: HEALTHY
+[2026-04-23 18:04:03] [INFO] [__main__] ==================================================
+[2026-04-23 18:04:03] [INFO] [__main__] RAM Optimizer Pro — Starting Up
+[2026-04-23 18:04:03] [INFO] [__main__] ==================================================
+[2026-04-23 18:04:03] [INFO] [__main__] OS        : Linux #14-Ubuntu SMP PREEMPT_DYNAMIC Mon Apr 13 11:09:53 UTC 2026
+[2026-04-23 18:04:03] [INFO] [__main__] Processor : 
+[2026-04-23 18:04:03] [INFO] [__main__] Arch      : 64bit
+[2026-04-23 18:04:03] [INFO] [core.monitor] Database initialized.
+[2026-04-23 18:04:05] [INFO] [core.monitor] Database initialized.
+[2026-04-23 18:04:06] [INFO] [ai.predictor] Running prediction cycle...
+[2026-04-23 18:04:06] [INFO] [ai.predictor] Loading training data...
+[2026-04-23 18:04:06] [INFO] [ai.predictor] Model trained (RandomForest) — MAE: 0.76% | Samples: 33
+[2026-04-23 18:04:06] [INFO] [ai.predictor] Prediction (15 min ahead): 32.18% RAM usage | Risk: HEALTHY
+[2026-04-23 18:04:06] [INFO] [ai.predictor] Prediction (30 min ahead): 30.75% RAM usage | Risk: HEALTHY
+[2026-04-23 18:04:06] [INFO] [ai.predictor] Prediction (60 min ahead): 32.18% RAM usage | Risk: HEALTHY
+[2026-04-23 18:11:10] [INFO] [core.analyzer] Running system memory analysis...
+[2026-04-23 18:11:10] [INFO] [core.analyzer] Old records cleaned up (older than 7 days).
+[2026-04-23 18:11:10] [INFO] [core.analyzer] Analysis complete. Peak: 36.4% | Avg: 31.84% | Leaks detected: 0
+[2026-04-23 18:11:10] [INFO] [core.monitor] Database initialized.
+[2026-04-23 18:11:10] [INFO] [core.monitor] Database initialized.
+[2026-04-23 18:11:10] [INFO] [core.optimizer] Starting optimization — RAM at 33.6%
+[2026-04-23 18:11:10] [INFO] [core.optimizer] Zombie processes killed: 0
+[2026-04-23 18:11:10] [INFO] [core.optimizer] Working sets reduced: 0 processes
+[2026-04-23 18:11:10] [INFO] [core.optimizer] Optimization complete — RAM: 33.6% → 33.6% (freed 0.0%)
+[2026-04-23 18:11:10] [INFO] [core.optimizer] RAM at 33.6% — optimization not needed yet.
+[2026-04-23 18:11:10] [INFO] [core.optimizer] RAM at 30.0% — optimization not needed yet.
+[2026-04-23 18:11:10] [INFO] [ai.predictor] Prediction (15 min ahead): 32.18% RAM usage | Risk: HEALTHY
+[2026-04-23 18:11:10] [INFO] [ai.predictor] Prediction (15 min ahead): 32.18% RAM usage | Risk: HEALTHY
+[2026-04-23 18:11:10] [INFO] [ai.predictor] Prediction (15 min ahead): 32.18% RAM usage | Risk: HEALTHY
+[2026-04-23 18:11:10] [INFO] [ai.predictor] Running prediction cycle...
+[2026-04-23 18:11:10] [INFO] [ai.predictor] Loading training data...
+[2026-04-23 18:11:10] [INFO] [ai.predictor] Model trained (RandomForest) — MAE: 0.55% | Samples: 34
+[2026-04-23 18:11:11] [INFO] [ai.predictor] Prediction (15 min ahead): 32.8% RAM usage | Risk: HEALTHY
+[2026-04-23 18:11:11] [INFO] [ai.predictor] Prediction (30 min ahead): 31.68% RAM usage | Risk: HEALTHY
+[2026-04-23 18:11:11] [INFO] [ai.predictor] Prediction (60 min ahead): 33.09% RAM usage | Risk: HEALTHY
+[2026-04-23 18:11:11] [INFO] [ai.predictor] Running prediction cycle...
+[2026-04-23 18:11:11] [INFO] [ai.predictor] Loading training data...
+[2026-04-23 18:11:11] [INFO] [ai.predictor] Model trained (RandomForest) — MAE: 0.55% | Samples: 34
+[2026-04-23 18:11:11] [INFO] [ai.predictor] Prediction (15 min ahead): 32.8% RAM usage | Risk: HEALTHY
+[2026-04-23 18:11:11] [INFO] [ai.predictor] Prediction (30 min ahead): 31.68% RAM usage | Risk: HEALTHY
+[2026-04-23 18:11:11] [INFO] [ai.predictor] Prediction (60 min ahead): 33.09% RAM usage | Risk: HEALTHY
+[2026-04-23 18:11:11] [INFO] [ai.predictor] Running prediction cycle...
+[2026-04-23 18:11:11] [INFO] [ai.predictor] Loading training data...
+[2026-04-23 18:11:11] [INFO] [ai.predictor] Model trained (RandomForest) — MAE: 0.55% | Samples: 34
+[2026-04-23 18:11:11] [INFO] [ai.predictor] Prediction (15 min ahead): 32.8% RAM usage | Risk: HEALTHY
+[2026-04-23 18:11:11] [INFO] [ai.predictor] Prediction (30 min ahead): 31.68% RAM usage | Risk: HEALTHY
+[2026-04-23 18:11:11] [INFO] [ai.predictor] Prediction (60 min ahead): 33.09% RAM usage | Risk: HEALTHY
