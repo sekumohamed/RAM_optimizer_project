@@ -36,30 +36,30 @@ Machine Learning, and automatically optimizes your system when needed.
 
 ##  Project Structure
 
+```
 ram_optimizer_pro/
 ├── ai/
-│   ├── predictor.py        # ML-based RAM usage prediction
-│   └── recommender.py      # Smart recommendations engine
+│   ├── predictor.py
+│   └── recommender.py
 ├── core/
-│   ├── monitor.py          # Real-time RAM monitoring
-│   ├── analyzer.py         # Usage pattern analysis
-│   ├── optimizer.py        # RAM optimization engine
-│   ├── compressor.py       # Memory compression (zlib + zram)
-│   └── swap_manager.py     # Swap memory management
+│   ├── monitor.py
+│   ├── analyzer.py
+│   ├── optimizer.py
+│   ├── compressor.py
+│   └── swap_manager.py
 ├── ui/
-│   ├── dashboard.py        # Main GUI dashboard
-│   ├── charts.py           # Live charts
-│   └── alerts.py           # Alert system
+│   ├── dashboard.py
+│   ├── charts.py
+│   └── alerts.py
 ├── utils/
-│   ├── logger.py           # Logging system
-│   ├── config.py           # Configuration
-│   └── platform_utils.py   # OS detection
-├── tests/                  # Unit tests (27 tests)
-├── data/                   # SQLite database + logs
-├── main.py                 # Entry point
+│   ├── logger.py
+│   ├── config.py
+│   └── platform_utils.py
+├── tests/
+├── data/
+├── main.py
 └── requirements.txt
-
----
+```
 
 ##  Installation
 
