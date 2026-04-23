@@ -1,4 +1,4 @@
-# 🧠 RAM Optimizer Pro
+#  RAM Optimizer Pro
 
 A smart, AI-powered RAM optimization and monitoring tool for Desktop (Linux, Windows, macOS).
 Built with Python, it monitors memory usage in real time, predicts future RAM consumption using
@@ -6,21 +6,21 @@ Machine Learning, and automatically optimizes your system when needed.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📊 **Live RAM & Swap Monitoring** — real-time stats updated every 2 seconds
-- 🔥 **Top Process Tracker** — identifies the biggest memory consumers
-- 🤖 **AI Prediction** — predicts RAM usage 15, 30, and 60 minutes ahead using RandomForest ML
-- ⚙️ **One-Click Optimization** — frees RAM cache, kills zombie processes, reduces working sets
-- 🗜️ **Memory Compression** — zlib-based compression and Linux zram support
-- 💾 **Swap Manager** — monitors and manages swap memory health
-- 🔔 **Smart Alerts** — desktop notifications at warning (80%) and critical (90%) thresholds
-- 📈 **Live Dashboard** — beautiful dark-themed GUI built with CustomTkinter
-- 🧪 **27 Unit Tests** — fully tested core modules
+-  **Live RAM & Swap Monitoring** — real-time stats updated every 2 seconds
+-  **Top Process Tracker** — identifies the biggest memory consumers
+-  **AI Prediction** — predicts RAM usage 15, 30, and 60 minutes ahead using RandomForest ML
+-  **One-Click Optimization** — frees RAM cache, kills zombie processes, reduces working sets
+-  **Memory Compression** — zlib-based compression and Linux zram support
+-  **Swap Manager** — monitors and manages swap memory health
+-  **Smart Alerts** — desktop notifications at warning (80%) and critical (90%) thresholds
+-  **Live Dashboard** — beautiful dark-themed GUI built with CustomTkinter
+-  **27 Unit Tests** — fully tested core modules
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python 3.10+**
 - **psutil** — system memory and process monitoring
@@ -34,7 +34,7 @@ Machine Learning, and automatically optimizes your system when needed.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ram_optimizer_pro/
 ├── ai/
@@ -61,7 +61,7 @@ ram_optimizer_pro/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ```bash
 # Clone the repository
